@@ -1,7 +1,7 @@
 # Can Ortanc's Ap Csa Website
 ---
 
-## Projects
+# Projects
 
 | Project | Doc Code |
 |---------|-----|
@@ -11,7 +11,7 @@
 ---
 # Rune Stone Academy Notes
 
-| Homework Name| Topic |
+| Homework Name | Topic |
 |---|-------|
 | R_U1_P1 | [1.1 - 1.3](https://docs.google.com/document/d/1tjt5impoz2KphG65B3PVPwIdC-ewP4rhGj3R2nWcNK8/edit?usp=sharing) |
 | R_U1_P2 | [1.4 - 1.8](https://docs.google.com/document/d/1Q2fTI8ZS1cJbAclaQA9qBqaJ3UrCeHhDHpPBUGmTGNc/edit?usp=sharing) |
