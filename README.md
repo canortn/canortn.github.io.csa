@@ -7,6 +7,8 @@
 |---------|-----|
 | Farmer Ryan | [Farmer Ryan](https://docs.google.com/document/d/1Y8ziVjue2xWbX1yf2ItVR3Z7NPGUv5oZxMas4wpaC5s/edit?usp=sharing) |
 | Get It Into Gear | [Get It Into Gear](https://docs.google.com/document/d/15T_431ywNoLJBnaRgxqiZC69_Oj_JFyujsucHOsgxDE/edit?usp=sharing) |
+| Shield Test Debugging | [Code](https://docs.google.com/document/d/11zadpe2g01O5F4SOJLFQmdHp63A_tVIRxaZy9UNaLQ8/edit?usp=sharing) |
+| Debug: GALACTIC CARGO STATION SABOTAGE/ 32 errors | [Code](https://docs.google.com/document/d/10cZFdQWcwhWYULU66Sd91Vs-ynDTMYev4SOhHGUBEXk/edit?usp=sharing) |
 
 ---
 # Rune Stone Academy Notes
