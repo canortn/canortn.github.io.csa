@@ -20,5 +20,7 @@
 | R_U1_P1 | [1.1 - 1.3](https://docs.google.com/document/d/1tjt5impoz2KphG65B3PVPwIdC-ewP4rhGj3R2nWcNK8/edit?usp=sharing) |
 | R_U1_P2 | [1.4 - 1.8](https://docs.google.com/document/d/1Q2fTI8ZS1cJbAclaQA9qBqaJ3UrCeHhDHpPBUGmTGNc/edit?usp=sharing) |
 | R_U1_P3 | [1.9](https://docs.google.com/document/d/1IDcblfWQ-piJIpRh6Le0OtdaMJeOTpF2EU-_WqBeYbo/edit?usp=sharing) |
+| R_U1_P4 | [1.10 - 1.11](https://docs.google.com/document/d/1M-x6JZnn6TEk6vacGX7NigLf7pv2s_1bCLwV6t3ug8s/edit?usp=sharing) |
+| R_U1_P5 | [1.12 - 1.14](https://docs.google.com/document/d/14G1swnaq5LZv6W5zF4irFMBLjAu0sD5kQNeqsdUBL2o/edit?usp=sharing) |
 
 ---
