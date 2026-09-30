@@ -1,16 +1,28 @@
 # Can Ortanc's Ap Csa Website
 ---
 
+
 # Projects
 
 | Project | Doc Code |
 |---------|-----|
 | Farmer Ryan | [Farmer Ryan](https://docs.google.com/document/d/1Y8ziVjue2xWbX1yf2ItVR3Z7NPGUv5oZxMas4wpaC5s/edit?usp=sharing) |
-| Get It Into Gear | [Get It Into Gear](https://docs.google.com/document/d/15T_431ywNoLJBnaRgxqiZC69_Oj_JFyujsucHOsgxDE/edit?usp=sharing) |
-| Shield Test Debugging | [Code](https://docs.google.com/document/d/11zadpe2g01O5F4SOJLFQmdHp63A_tVIRxaZy9UNaLQ8/edit?usp=sharing) |
+| Get It Into Gear | [Get It Into Gear](https://docs.google.com/document/d/15T_431ywNoLJBnaRgxqiZC69_0j_JFyujsucHOsgxDE/edit?usp=sharing) |
+| Shield Test Debugging | [Code](https://docs.google.com/document/d/11zadpe2g0105F4SOJLFQmdHp63A_tVIRxaZy9UNaLQ8/edit?usp=sharing) |
 | Debug: GALACTIC CARGO STATION SABOTAGE/ 32 errors | [Code](https://docs.google.com/document/d/10cZFdQWcwhWYULU66Sd91Vs-ynDTMYev4SOhHGUBEXk/edit?usp=sharing) |
-| Digital Diner Menu 1 | [Normal Code](https://docs.google.com/document/d/12RXooTMlqv1uCMOmOqUea8nO6zNnO_S31379Unl6ep0/edit?usp=sharing) |
+| Digital Diner Menu 1 | [Normal Code](https://docs.google.com/document/d/12RXooTMlqv1uCMOmOqUea8n06zNnO_S31379Unl6ep0/edit?usp=sharing) |
 | Digital Diner Menu 2 | [Method Code](https://docs.google.com/document/d/1DDuXNvPHFGwAuYSJ6lFo5t1CATJLcwioR64FRCVX2AY/edit?usp=sharing) |
+
+## BlueJ Lessons
+
+| Lesson | Doc Code |
+|--------|----------|
+| BlueJ Lesson 1 | [Lesson 1](https://docs.google.com/document/d/1CWhEpnadZdDFkVxCasv7S1yIKccoQy67XDc-M133M_I/edit?usp=sharing) |
+| BlueJ Lesson 2 | [Lesson 2](https://docs.google.com/document/d/1m9RQt_eeav-KWZwFT7CIA2m0oyvlhwAE-nvbAJZNU40/edit?usp=sharing) |
+| BlueJ Lesson 3 | [Lesson 3](https://docs.google.com/document/d/1a7ejGD2ToinbptLsb034Ui_vW3PU6u7CddTmlbsN3lY/edit?usp=sharing) |
+| BlueJ Lesson 4 | [Lesson 4](https://docs.google.com/document/d/12qIEuAswnYX4xRa54IvZlXMnZyxIVPmAQghouHQNByY/edit?usp=sharing) |
+| BlueJ Lesson 5 | [Lesson 5](https://docs.google.com/document/d/1YZQ0BT9gEnUIiXZbL1Z1PCvBHebXApZdsNo5Rhm6Dgs/edit?usp=sharing) |
+
 
 ---
 # Rune Stone Academy Notes
