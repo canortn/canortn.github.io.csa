@@ -31,3 +31,10 @@
 | R_U1_P6 | [1.15](https://docs.google.com/document/d/1fWb_OAzkMpd8LvMqvxSoXF5P0SgTrdq55YnNE6Yxc0M/edit?usp=sharing) |
 
 ---
+
+# General Unit Notes
+
+| Unit Name | Note |
+|---|-------|
+| 2.1 - 2.3 | [Notes](https://docs.google.com/document/d/1GVmiQVKiypd76hUCE9g2FgCbyhbyQHl2F7AhVVphwfw/edit?usp=sharing) |
+| 2.4 - 2.7 | [Notes](https://docs.google.com/document/d/1jKlVIXPe7oZmTn1vlUVHRi24PMipU8tX_8LBLlo_ZaU/edit?usp=sharing) |
