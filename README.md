@@ -17,7 +17,7 @@
 | Quiz_FRQ_II | [Code](https://docs.google.com/document/d/1LCjOuZGHu15Z4_SRaHp6dFKeNoRp-fSpCqIlp8sLcPM/edit?usp=sharing) |
 | Project_1 | [Code](https://docs.google.com/document/d/1n6M2qXWMeqlWSBGETBOujWPPzny86ZgGzQZOF-znudA/edit?usp=sharing) |
 | Project_2 | [Code](https://docs.google.com/document/d/1n6M2qXWMeqlWSBGETBOujWPPzny86ZgGzQZOF-znudA/edit?usp=sharing) |
-| Project_3 - 12/10/2026 Lesson | [Code](https://docs.google.com/document/d/192FoZr_zbF-ZSPn6zLKfCxWZqDHSJKXVLM7pXxOkU2I/edit?usp=sharing) |
+| DIGIT DETECTIVE Programming Project | [Code](https://docs.google.com/document/d/192FoZr_zbF-ZSPn6zLKfCxWZqDHSJKXVLM7pXxOkU2I/edit?usp=sharing) |
 
 ---
 # Rune Stone Academy Notes
