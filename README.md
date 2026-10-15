@@ -39,3 +39,4 @@
 |---|-------|
 | 2.1 - 2.3 | [Notes](https://docs.google.com/document/d/1GVmiQVKiypd76hUCE9g2FgCbyhbyQHl2F7AhVVphwfw/edit?usp=sharing) |
 | 2.4 - 2.7 | [Notes](https://docs.google.com/document/d/1jKlVIXPe7oZmTn1vlUVHRi24PMipU8tX_8LBLlo_ZaU/edit?usp=sharing) |
+| 2.8 - 2.9 | [Notes](https://docs.google.com/document/d/1uaGoX4sWykyMeSq-lJywYJmhC37KTygSnYptc2uHA4Y/edit?usp=sharing) |
